@@ -1,0 +1,58 @@
+{
+    "levels": [
+      {
+        "level": 1,
+        "planets": [
+          {
+            "name": "Planet A",
+            "temperature": "Hot",
+            "distance": "Close to Star",
+            "atmosphere": "No Oxygen",
+            "image": "assets/textures/trappist_b.jpg"
+          },
+          {
+            "name": "Planet B",
+            "temperature": "Cold",
+            "distance": "Far from Star",
+            "atmosphere": "Oxygen-Rich",
+            "image": "assets/textures/trappist_c.jpg"
+          },
+          {
+            "name": "Planet C",
+            "temperature": "Warm",
+            "distance": "Optimal Distance",
+            "atmosphere": "Oxygen",
+            "image": "assets/textures/trappist_d.jpg"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "planets": [
+          {
+            "name": "Planet D",
+            "temperature": "Cold",
+            "distance": "Very Far from Star",
+            "atmosphere": "Oxygen",
+           "image": "assets/textures/trappist_e.jpg"
+          },
+          {
+            "name": "Planet E",
+            "temperature": "Hot",
+            "distance": "Very Close to Star",
+            "atmosphere": "No Oxygen",
+          "image": "assets/textures/trappist_f.jpg"
+          },
+          {
+            "name": "Planet F",
+            "temperature": "Warm",
+            "distance": "Optimal Distance",
+            "atmosphere": "Oxygen",
+        "image": "assets/textures/trappist_g.jpg"
+          }
+        ]
+      }
+    ]
+  }
+  
+  
